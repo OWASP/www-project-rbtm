@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Benjamin LØKLING
+    email: benjamin.lokling@owasp.org
+    github: bra001
+  - name: Nicole Marcelino SILVA
+    email: nicole_oix@hotmail.com
+    github: nimsilva
+  - name: Even TILLERLI
+    email: etillerli@gmail.com
+    github: evtil
+level: 2
+name: OWASP RBTM
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-rbtm
+    url: https://github.com/OWASP/www-project-rbtm
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-rbtm
